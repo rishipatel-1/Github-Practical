@@ -1,5 +1,1 @@
-HEllo World
-
-
-
-this is feature branch changes
+this is resolved conflict
