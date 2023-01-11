@@ -1,7 +1,6 @@
 this is resolved conflict  and adding a conflict for rebase
 
 
-<<<<<<< HEAD
 This is for rebase 
 
 
@@ -9,6 +8,4 @@ This is for rebase
 
 hello rebase complete 
 
-=======
 HEllo world making changes for rebase
->>>>>>> 9597bc8 (rebase)
