@@ -1,11 +1,1 @@
-this is resolved conflict  and adding a conflict for rebase
-
-
-This is for rebase 
-
-
-#making changes for reabse 
-
-hello rebase complete 
-
-HEllo world making changes for rebase
+HELLO WORLD MAIN
