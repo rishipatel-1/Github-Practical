@@ -1,14 +1,3 @@
 this is resolved conflict  and adding a conflict for rebase
 
-
-
-
-This is for rebase 
-
-
-
-
-
-#pull request  example
-
-making a pull request from feature to main
+Hello world
