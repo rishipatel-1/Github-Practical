@@ -1,4 +1,4 @@
-this is resolved conflict 
+this is resolved conflict  and adding a conflict for rebase
 
 
 This is for rebase 
